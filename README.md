@@ -1,53 +1,125 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mohamed%20Mofeed%20Hawas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Flutter%20Developer%20|%20Aviation%20Information%20Systems&descAlignY=52"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Mofeed;Flutter+Developer+%F0%9F%9A%80;Building+Beautiful+Mobile+Apps+%F0%9F%93%B1;Aviation+Information+System+Student" alt="Typing SVG" />
+</div
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedMofeedHawas&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/MohamedMofeedHawas?label=Followers&style=social" alt="followers" />
+</p>
+
+
+
+
+
+
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="300"/>
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+---
+
 ## 👨‍💻 About Me
-I'm a passionate **Flutter Developer** in training with a solid foundation in **frontend web development**. I love crafting clean, responsive applications and continuously expanding my expertise in Flutter and Dart.
 
 - 🔭 Currently working on mobile app development projects
 - 🌱 Learning advanced Flutter patterns and state management
 - 💼 Open to collaboration on Flutter projects
-- 📫 Reach me at: **m9stafa05@gmail.com**
-- ⚡ Fun fact: I bridge the gap between web and mobile development
+- 🎓 Student at **Zagazig National University**
+- ✈️ Major: **Aviation Information Systems**
+- 📱 **Flutter Developer**
+- 🧠 Strong in **State Management & Clean Architecture**
+- 💙 Passionate about combining **Aviation + Technology**
 
-🔗 [Check out my Portfolio Website »](#)
+> ✨ *Programming is like aviation: precision, safety, and responsibility.*
+
+---
+
+## ✈️ Aviation Background
+
+- Understanding of **Aviation Systems**
+- Airport & Airline Information Systems
+- Aviation Data Management  
+- Interested in:
+  - 🛫 Flight Operations Systems
+  - 🏢 Airport Management Software
+  - 📱 Aviation Mobile Applications
+
+---
+
+## 🖥️ Aviation Info Display (Animated Showcase)
+
+<div align="center">
+
+<!-- Aviation Slider Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/230708331-4e8c9d6f-7c8b-4a89-b4d1-3c27c7fbd9c4.gif" width="650"/>
+
+</div>
+
+<div align="center">
+
+### 🛫 Aviation Knowledge Highlights
+
+| ✈️ Topic | 📌 Description |
+|--------|----------------|
+| **Air Law** | ICAO regulations, aviation rules & safety standards |
+| **ATFM** | Air Traffic Flow Management & airspace control |
+| **Navigation** | Flight planning, air routes & charts |
+| **Radio Navigation** | VOR, NDB, ILS, GPS systems |
+| **Aerodromes** | Airport design, runways & lighting systems |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<div align="center">
 
-### Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,figma,vscode,androidstudio&theme=dark" />
 
-### Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Design & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedMofeedHawas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedznuav999@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamedMofeedHawas)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201060157100)
+
+
+
+</div>
+
+---
+## 📊 GitHub Statistics
+<div align="center">
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedMofeedHawas&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMofeedHawas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohamedMofeedHawas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -56,13 +128,10 @@ I'm a passionate **Flutter Developer** in training with a solid foundation in **
 ![Snake animation](https://raw.githubusercontent.com/MohamedMofeedHawas/MohamedMofeedHawas/output/github-snake-dark.svg)
 
 ---
+```dart
+// Aviation mindset in code
+if (systemSafety < requiredStandard) {
+  abortMission(); // Safety first
+}
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](your-portfolio-url)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=MohamedMofeedHawas&icon=0&color=0)](https://visitcount.itsvg.in)
+// Clean code = safe flight ✈️
