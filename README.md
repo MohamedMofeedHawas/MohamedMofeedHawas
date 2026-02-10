@@ -51,6 +51,12 @@ I'm a passionate **Flutter Developer** in training with a solid foundation in **
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/MohamedMofeedHawas/MohamedMofeedHawas/output/github-snake-dark.svg)
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
