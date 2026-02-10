@@ -60,7 +60,7 @@
 
 ---
 
-## 🖥️ Aviation Info Display (Animated Showcase)
+## 🖥️ Aviation Info Display 
 
 <div align="center">
 
